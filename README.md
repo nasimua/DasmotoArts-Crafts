@@ -15,4 +15,6 @@ Image 3
 Image 4
 The rest of the page’s styling (font sizes, colors, etc.) is outlined in the following design spec, which is a standard document you’d expect to receive as a freelance web developer:
 
-Spec
+Spec (https://content.codecademy.com/courses/freelance-1/unit-2/dasmotos-arts_redline.jpg?_gl=1*wi5l7o*_ga*MTQ4MTIxOTkyLjE2NDM1NzAwNzk.*_ga_3LRZM6TM9L*MTY1MjcxOTk5OC40OS4xLjE2NTI3MjAxMDcuNjA.)
+
+https://nasimua.github.io/DasmotoArts-Crafts/
